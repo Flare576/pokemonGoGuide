@@ -47,5 +47,7 @@ a
 
 a
 
-<a name="#what_are_pokemon" /></a>
+<a name="what_are_pokemon" />
 #What are Pokémon?
+</a>
+
