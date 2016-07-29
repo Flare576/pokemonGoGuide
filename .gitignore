@@ -1,0 +1,18 @@
+index.html
+jspm_packages
+node_modules
+coverage
+npm-debug*
+dist/*
+screenshot/*
+phantomjsdriver.log
+
+# OSX badness
+.DS_Store
+
+# WebStorm IDE related files and directories
+.idea
+/Nassau.retail.sln
+
+# VSCode IDE related files
+*.vscode
