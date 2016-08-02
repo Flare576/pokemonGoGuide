@@ -67,6 +67,7 @@ Max Revive | 30 | Restores a fainted Pokémon and provides full health.
 
 
 > *Eggs will stop appearing at Pokéstops once you have 9. When you hatch one, they'll begin to appear again.
+Data from http://www.serebii.net/pokemongo/items.shtml
 
 For a full list of items, see [Items](#items)
 
