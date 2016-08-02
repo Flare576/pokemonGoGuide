@@ -47,7 +47,7 @@ Pokéstops, which from a distance look like cubes atop pedestals, represent poin
  
 When you are close enough to a Pokéstop for it to transform, you're close enough to interact with it. Simply tap the icon and it will zoom into a detailed look at the location.
 
-![Pokéstop Details](images/poketop_details.jpg)
+![Pokéstop Details](images/pokestop_details.jpg)
 
 Slide your finger across the large circle to spin the Pokéstop and gain items relative to your level:
 
