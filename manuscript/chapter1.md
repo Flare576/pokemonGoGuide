@@ -95,26 +95,26 @@ LEVEL | XP Needed To Reach Level | Total XP | Receive | Unlocks
 18 | 20,000 | 160,000 | 10 Great Balls, 10 Hyper Potions, 5 Revives, 5 Razz Berries
 19 | 25,000 | 185,000 | 10 Great Balls, 10 Hyper Potions, 5 Revives, 5 Razz Berries
 20 | 25,000 | 210,000 | 20 Ultra Balls, 20 Hyper Potions, 20 Revives, 20 Razz Berry, 2 Incense, 2 Lucky Eggs, 2 Egg Incubators, 2 Lure Modules | Ultra Balls
-21 | 50,000 | 260,000
-22 | 75,000 | 335,000
-23 | 100,000 | 435,000
-24 | 125,000 | 560,000
-25 | 150,000 | 710,000
-26 | 190,000 | 900,000
-27 | 200,000 | 1,100,000
-28 | 250,000 | 1,350,000
-29 | 300,000 | 1,650,000
-30 | 350,000 | 2,000,000
-31 | 500,000 | 2,500,000
-32 | 500,000 | 3,000,000
-33 | 750,000 | 3,750,000
-34 | 1,000,000 | 4,750,000
-35 | 1,250,000 | 6,000,000
-36 | 1,500,000 | 7,500,000
-37 | 2,000,000 | 9,500,000
-38 | 2,500,000 | 12,000,000
-39 | 3,000,000 | 15,000,000
-40 | 5,000,000 | 20,000,000
+21 | 50,000 | 260,000 | 10 Ultra Balls, 10 Hyper Potions, 10 Revives, 10 Razz Berries
+22 | 75,000 | 335,000 | 10 Ultra Balls, 10 Hyper Potions, 10 Revives, 10 Razz Berries
+23 | 100,000 | 435,000 | 10 Ultra Balls, 10 Hyper Potions, 10 Revives, 10 Razz Berries
+24 | 125,000 | 560,000 | 10 Ultra Balls, 10 Hyper Potions, 10 Revives, 10 Razz Berries
+25 | 150,000 | 710,000 | 25 Ultra Balls, 20 Max Potions, 15 Revives, 15 Razz Berries, 1 Incense, 1 Lucky Egg, 1 Egg Incubator, 1 Lure Module | Max Potions
+26 | 190,000 | 900,000 | 10 Ultra Balls, 15 Max Potions, 10 Revives, 15 Razz Berries
+27 | 200,000 | 1,100,000 | 10 Ultra Balls, 15 Max Potions, 10 Revives, 15 Razz Berries
+28 | 250,000 | 1,350,000 | 10 Ultra Balls, 15 Max Potions, 10 Revives, 15 Razz Berries
+29 | 300,000 | 1,650,000 | 10 Ultra Balls, 15 Max Potions, 10 Revives, 15 Razz Berries
+30 | 350,000 | 2,000,000 | 30 Ultra Balls, 20 Max Potions, 20 Max Revives, 20 Razz Berries, 3 Incense, 3 Lucky Eggs, 3 Egg Incubators, 3 Lure Modules | Max Revive
+31 | 500,000 | 2,500,000 | 10 Ultra Balls, 15 Max Potions, 10 Max Revives, 15 Razz Berries
+32 | 500,000 | 3,000,000 | 10 Ultra Balls, 15 Max Potions, 10 Max Revives, 15 Razz Berries
+33 | 750,000 | 3,750,000 | 10 Ultra Balls, 15 Max Potions, 10 Max Revives, 15 Razz Berries
+34 | 1,000,000 | 4,750,000 | 10 Ultra Balls, 15 Max Potions, 10 Max Revives, 15 Razz Berries
+35 | 1,250,000 | 6,000,000 | 30 Ultra Bells, 20 Max Potions, 20 Max Revives, 20 Razz Berries, 2 Incense, 1 Lucky Egg, 1 Lure Module
+36 | 1,500,000 | 7,500,000 | 30 Ultra Balls, 20 Max Potions, 10 Max Revives, 20 Razz Berries
+37 | 2,000,000 | 9,500,000 | 20 Ultra Balls, 20 Max Potions, 10 Max Revives, 20 Razz Berries
+38 | 2,500,000 | 12,000,000 | 20 Ultra Balls, 20 Max Potions, 10 Max Revives, 20 Razz Berries
+39 | 3,000,000 | 15,000,000 | 20 Ultra Balls, 20 Max Potions, 10 Max Revives, 20 Razz Berries
+40 | 5,000,000 | 20,000,000 | 40 Ultra Balls, 40 Max Potions, 40 Max Revives, 40 Razz Berries, 4 Incense, 4 Lucky Eggs, 4 Egg Incubators, 4 Lure Modules
 Source: http://www.polygon.com/2016/7/19/12227650/pokemon-go-level-rewards
 
 The situation is complicated by the fact that the things that provide you with XP do not scale with you.
