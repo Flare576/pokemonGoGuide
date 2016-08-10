@@ -4,9 +4,41 @@ Pokémon Go is a type of game called "Augmented reality," which simply means it 
 # <a name="first_time_launch"/></a>First Time Launch
 >NOTE: It is recommended you don't login for your first time in a moving vehicle. As part of the proces you will be choosing your first Pokémon, but they will not follow you if you move.
 
-When you launch the game, you'll be asked to login, either via your Google account or by creating a new Trainer Account. After logging in, you'll be allowed to configure your avatar (what you'll look like in the game) and then be dropped onto a map. You'll likely see a lot of things pop up around you, but the most important will be three Pokémon: Bulbasaur, Charmander, and Squirtle. You'll be able to tap on one and [Catch it](#catching_pokemon)
+When you launch the game, you'll be asked to login, either via your Google account or by creating a new Trainer Account. After logging in, you'll be allowed to configure your avatar (what you'll look like in the game) and then be dropped onto a map. This view is called the **Overworld**.
 
-After that, you'll have a chance to look around. You'll probably see some [Pokéstops](#what_is_a_pokestop), [Gyms](#gyms), and other [Pokémon to catch](#catching_pokemon).
+You'll likely see a lot of things pop up around you, but the most important will be three Pokémon: Bulbasaur, Charmander, and Squirtle. You'll be able to tap on one and [Catch it](#catching_pokemon)
+
+After that, you'll have a chance to look around. You'll probably see some [Pokéstops](#pokestops), [Gyms](#gyms), and other [Pokémon to catch](#catching_pokemon). Additionally, you'll see a few icons along the bottom of your screen. 
+
+On the far left is your avatar and level with a level progress bar. Tapping it will bring up your [Profile](#profile). In the middle is the Poké Ball button, which brings up your menu. On the left is the [Pokémon Finder](#finder).
+
+Additionally, at the top of the screen is a compass; this can be tapped to lock in "North" map orientation.
+
+# <a name="profile"></a>Profile
+Your profile lists a number of stats. From top to bottom:
+
+1. Username
+2. Avatar
+3. [Team](#team) (Background Image)
+4. Total XP
+5. Level
+6. Progress to next level
+7. PokéCoins, Start Date, [Team](#Team) Icon / Name
+8. Badge Section[^badges]
+
+[^badges]: You might notice that some of the badges don't match your gender. This is because in the original Pokémon games there were trainer types of these names which Pokémon Go makes a nostalgic nod to. For example, there was a "Fisherman" but no "Fisherwoman", and a "Battle Girl" but no "Battle Boy"
+
+Additionaly, there's a menu button in the lower right that allows you to see your Journal and re-customize your character.
+
+# <a name="finder"></a>Pokémon Finder
+Stuff about the Pokémon Finder.
+
+# <a name="team"></a>Team
+At level 5 you'll be given the choice to choose a Team: Blue, Red, or Yellow.
+
+PUT IN THE DESCRIPTIONS
+
+The choice you make is primarily relevant when you're interacting with [Gyms](#gyms) (and, of course, when meeting new people while playing!).
 
 # <a name="what_are_pokemon"/></a>What are Pokémon?
 Pokémon means several things:
@@ -25,9 +57,9 @@ Pokémon means several things:
 In general, when this guide refers to Pokémon, it's to the creatures you see on the screen while playing Pokémon Go
 
 
-# <a name="what_is_a_pokestop"/></a>Pokéstops
+# <a name="pokestops"/></a>Pokéstops
 
-Pokéstops, which from a distance look like cubes atop pedestals, represent points of interest in the real world. These could be art fixtures, historic buildings, signs, or other landmarks. When you get close to them, they will expand into concentric circles resembling a Pokéball.
+Pokéstops, which from a distance look like cubes atop pedestals, represent points of interest in the real world. These could be art fixtures, historic buildings, signs, or other landmarks. When you get close to them, they will expand into concentric circles resembling a Poké Ball.
 
 ![Pokéstop](images/pokestop.jpg)
  
@@ -35,50 +67,93 @@ When you are close enough to a Pokéstop for it to transform, you're close enoug
 
 ![Pokéstop Details](images/pokestop_details.jpg)
 
-Slide your finger across the large circle to spin the Pokéstop and gain 50 [Experience Points](#experience_points) and items relative to your level:
+Slide your finger across the large circle to spin the Pokéstop and gain [Experience Points](#experience_points) and [items relative to your level](#experience_points).
 
-Item | Required Level | Description
---- | --- | ---
-Pokéball | 1 | Used to capture Pokémon. Has a standard chance of capture.
-Egg* | 1 | Hatches into a Pokémon
-Potion | 5 | Used to heal Pokémon by 20 HP.
-Revive | 5 | Restores a fainted Pokémon and provides half health.
-Razz Berry | 8 | Makes it so the next Ball has a higher rate of capture.
-Super Potion | 10 | Used to heal Pokémon by 50 HP.
-Great Ball | 12 | Used to capture Pokémon. Has a higher chance of capture.
-Hyper Potion | 15 | Used to heal Pokémon by 200 HP.
-Ultra Ball | 20 | Used to heal Pokémon by 200 HP.
-Max Potion | 25 | Used to completely heal a Pokémon.
-Max Revive | 30 | Restores a fainted Pokémon and provides full health.
+For a full list of items, see [Items](#items). Note, too, that you don't need to *tap* the items; their appearence on the scren is enough!
 
+You can spin a Pokéstop once every five (5) minutes, and the items that drop appear to be random. Once your inventory is full, you will begin to get a "Bag is full" message instead of items. See [Bag Management](#bag_management) for more information.
 
-> *Eggs will stop appearing at Pokéstops once you have 9. When you hatch one, they'll begin to appear again.
-Data from http://www.serebii.net/pokemongo/items.shtml
+# <a name="bag_management"></a>Bag Management
+When you start the game, your bag can contain up to 350 [items](#items). You can increase this by buying Bag Upgrades (see [Shop](#shop)). 
 
-For a full list of items, see [Items](#items)
+## Removing Items
+As you play and spin [Pokéstops](#pokestops), your bag will inevitably get full. To remove items, tap the Poké Ball icon at the bottom of the screen while in the **Overworld**, then tap _Items_. Each item has a little garbage can next to it. Tapping this will bring up an interface where you choose the quantity to throw away. When you've entered the desired number, tap "Yes." You've just cleared up space!
 
-##Using Pokéstops
-
-
-# <a name="what_is_a_gym"/></a>Gyms
+# <a name="gym"/></a>Gyms
 Stuff about gyms
 
 # <a name="catching_pokemon"/></a>Catching Pokemon
 Stuff about catching
 
+# <a name="shop"/></a>Shop
+Item | Qty | Cost | Coins Per Item
+--- | --- | --- | ---
+Poké Balls | 20 | 100 PokéCoins | 5
+Poké Balls | 100 | 460 PokéCoins | 4.6
+Poké Balls | 200 | 800 PokéCoins | 4
+Incense | 1 | 80 PokéCoins | 80
+Incense | 8 | 500 PokéCoins | 62.5
+Incense | 25 | 1250 PokéCoins | 50
+Lucky Egg | 1 | 80 PokéCoins | 80
+Lucky Egg | 8 | 500 PokéCoins | 62.5
+Lucky Egg | 25 | 1250 PokéCoins | 50
+Lure Module | 1 | 100 PokéCoins | 100
+Lure Modules | 8 | 680 PokéCoins | 85
+Egg Incubator | 1 | 150 PokéCoins | 150
+Bag Upgrade | 1 | 200 PokéCoins | 200
+Pokémon Storage Upgrade | 1 | 200 PokéCoins | 200
+>http://www.serebii.net/pokemongo/shop.shtml
+
+## Getting PokéCoins
+Every 20 hours, you can go into the Shop and tap on the icon in the upper-right. For every Pokémon you have placed at a [Gym](#gym) at the time, you will receive 10 PokéCoins.
+
+Additionally, you can purchase PokéCoins with real currency:
+
+PokéCoin Amount | Japanese Price | US Price | UK Price | Europe Price | % off
+--- | --- | --- | --- | --- | ---
+100 PokéCoins | 120¥ | $0.99 | £0.79 | €0.99 | 
+550 PokéCoins | 600¥ | $4.99 | £3.99 | €4.99 | 8%
+1200 PokéCoins | 1200¥ | $9.99 | £7.99 | €9.99 | 16%
+2500 PokéCoins | 2400¥ | $19.99 | £14.99 | €19.99 | 21%
+5200 PokéCoins | 4800¥ | $39.99 | £29.99 | €39.99 | 24%
+14500 PokéCoins | 11800¥ | $99.99 | £79.99 | €99.99 | 31%
+
 
 # <a name="items"/></a>Items
-Stuff about items
+
+Item | Desc | Min Level | Use Location | Obtain Method
+--- | --- | --- | --- | ---
+Bag Upgrade | Increases the item capacity by 50. Max capacity: 1,000 | | Shop | Shop
+Camera | Allows for you to take pictures of the Pokémon | | Pokémon Capture | From Beginning
+Egg | Hatches into a Pokémon | | Overworld | PokéStops
+Egg Incubator | Used to hatch Pokémon Eggs. Each one can hatch 3 Eggs total | | Overworld | Shop, Level Up
+Great Ball | Used to capture Pokémon. Has a higher chance of capture. | 12 | Pokémon Capture | PokéStops, Level Up
+Hyper Potion | Used to heal Pokémon by 200 HP. | 15 | Overworld | PokéStops, Level Up
+Incense | Attracts wild Pokémon to you for 30 minutes. When you're standing still, one will spawn every 5 minutes. When you're on the move, one will spawn every minute | | Overworld | Shop, Level Up
+Lucky Egg | Doubles experience gained for 30 minutes | | Overworld | Shop, Level Up
+Lure Module | Attracts wild Pokémon to a PokéStop for all players for 30 minutes. Averages an appearance once every 5 minutes | | Overworld | Shop, Level Up
+Max Potion | Used to completely heal a Pokémon. | 25 | Overworld | PokéStops, Level Up
+Max Revive | Restores a fainted Pokémon and provides full health. | 30 | Overworld | PokéStops, Level Up
+Poké Ball | Used to capture Pokémon. Has a standard chance of capture. | | Overworld | Shop, PokéStops, Level Up
+Pokémon Storage Upgrade | Increases the Pokémon storage capacity by 50. Max capacity: 1,000 | | Shop | Shop
+Potion | Used to heal Pokémon by 20 HP. | 5 | Overworld | PokéStops, Level Up
+Razz Berry | Makes it so the next Ball has a higher rate of capture. | 8 | Pokémon Capture | PokéStops, Level Up
+Revive | Restores a fainted Pokémon and provides half health. | 5 | Overworld | PokéStops, Level Up
+Stardust | Used to Power Up Pokémon. | 10 | Pokémon Selection | Pokémon capture
+Super Potion | Used to heal Pokémon by 50 HP. | 10 | Overworld | PokéStops, Level Up
+Ultra Ball | Used to capture Pokémon. Has a higher chance of capture. | 20 | Pokémon Capture | PokéStops, Level Up
+> http://www.serebii.net/pokemongo/items.shtml
+
 
 # <a name="experience_points"></a>Experience Points
-As opposed to how most Pokémon games work, which is that individual Pokémon gain experience points (XP) and level up, Pokémon Go has you, the player, level up. As you gain XP, the ammount you'll need for the next level increases. For more information about what you can do at each level, see [Levels](#levels)
+As opposed to how most Pokémon games work, which is that individual Pokémon gain experience points (XP) and level up, Pokémon Go has you, the player, level up. As you gain XP, the ammount you'll need for the next level increases.
 
-LEVEL | XP Needed To Reach Level | Total XP | Receive | Unlocks
+LEVEL | Additional XP | Total XP | Receive | PokéStop Additions
 --- | --- | --- | --- | ---
-1 | 0 | 0 |
-2 | 1,000 | 1,000 | 15 PokéBalls
-3 | 2,000 | 3,000 | 15 PokéBalls
-4 | 3,000 | 6,000 | 15 PokéBalls
+1 | 0 | 0 | | PokeBalls, Eggs[^eggDrop]
+2 | 1,000 | 1,000 | 15 Poké Balls
+3 | 2,000 | 3,000 | 15 Poké Balls
+4 | 3,000 | 6,000 | 15 Poké Balls
 5 | 4,000 | 10,000 | 10 Potions, 1 Incense, 10 Revives | Choosing a team, gyms, Great Potions, Revives
 6 | 5,000 | 15,000 | 15 Poké Balls, 10 Potions, 10 Revives, 1 Egg Incubator
 7 | 6,000 | 21,000 | 15 Poké Balls, 10 Potions, 10 Revives, 1 Incense
@@ -115,19 +190,22 @@ LEVEL | XP Needed To Reach Level | Total XP | Receive | Unlocks
 38 | 2,500,000 | 12,000,000 | 20 Ultra Balls, 20 Max Potions, 10 Max Revives, 20 Razz Berries
 39 | 3,000,000 | 15,000,000 | 20 Ultra Balls, 20 Max Potions, 10 Max Revives, 20 Razz Berries
 40 | 5,000,000 | 20,000,000 | 40 Ultra Balls, 40 Max Potions, 40 Max Revives, 40 Razz Berries, 4 Incense, 4 Lucky Eggs, 4 Egg Incubators, 4 Lure Modules
-Source: http://www.polygon.com/2016/7/19/12227650/pokemon-go-level-rewards
+>http://www.polygon.com/2016/7/19/12227650/pokemon-go-level-rewards
+
+[^eggDrop]: Eggs will stop appearing at Pokéstops once you have 9. When you hatch one, they'll begin to appear again.
+Data from http://www.serebii.net/pokemongo/items.shtml
 
 The situation is complicated by the fact that the things that provide you with XP do not scale with you.
 
 Activity | XP Value
 --- | ---
-"Spinning" [PokéStops](#what_is_a_pokestop) | 50, or 100 if 6+ items
+"Spinning" [PokéStops](#pokestops) | 50, or 100 if 6+ items
 Catching a Pokémon | 100 - 200 
 Acquiring a New Pokémon | 500
 Hatching an Egg | Unconfirmed[^eggXP]
-Fighting an opponent's [Gym](#what_is_a_gym) | up to 100
-Winning a fight against opponent's [Gym](#what_is_a_gym) | up to 150
-Winning at a friendly [Gym](#what_is_a_gym) | up to 100
+Fighting an opponent's [Gym](#gym) | up to 100
+Winning a fight against opponent's [Gym](#gym) | up to 150
+Winning at a friendly [Gym](#gym) | up to 100
 
 
 >Note: There are 4 "Catching" modifiers which do not stack:
@@ -141,5 +219,34 @@ Winning at a friendly [Gym](#what_is_a_gym) | up to 100
 
 [^eggXP]: Some sources state a flat value of 500xp, others suggest 100xp per KM needed to hatch the egg.
 
-# <a name="levels"></a> Levels
-In Pokémon Go, the player gains levels instead of, as is traditionally the case, their Pokémon. As you progress you unlock 
+## Leveling Techniques
+One of the most important items when trying to level is the Lucky Egg. This is a 1-time use item that lasts for 30 minutes. While the effect is active all XP you earn is doubled. All of the techinques that follow can be enhanced by optimizing this time.
+
+![Lucky Egg effect](images/luckyEgg.png)
+
+### Evolution Blitz
+>Max Potential: 30,000 (60,000 with Lucky Egg)[^evolutionNote]
+
+ One way of doing this is to save Pokémon and candy until you have enough to spend the full 30 minutes evolving and transferring Pokémon. Because of their low evolution cost and high encounter rate, the best candidates for this are Caterpie, Weedle, and Pidgey.
+
+All three of the above Pokémon cost 12 candy to evolve, but since we're not aiming to keep them, you can transfer them to take their evolution cost down to 11 for all but the first. It takes roughly 30 seconds to evolve and transfer each Pokémon, so you should queue up around 60 Pokémon, which means if you're working with all of one type, you'll need:
+
+>12 + ( 11 * 59 ) = 661 candies
+
+To get these, you'll need to catch 60 Pokémon and keep them (so they'll be worth 3 candy), and then catch more and transfer them (so they'll be worth 4)
+
+>(x * 4) + (60 * 3) = 661
+>
+>(x * 4) + 180 = 661
+>
+>(x * 4) = 481
+>
+>x = ~121
+
+Adding the 121 back to the 60 we need, that's 181 Pokémon. That's a lot, but bear in mind you don't NEED a full batch to make this process worth it... but if you do, that's 2 * (60 * 500xp), or 60,000xp. Not bad for 30 minutes.
+
+[^evolutionNote]: You don't have to stick to just these three Pokémon. If you save candy from all of your Pokémon, you could get even more for new Pokémon!
+
+### The Marathon
+
+More in the spirit of Pokémon Go's goal of getting you up and moving is finding a location where you can constantly spin Pokéstops. It takes less than 5 seconds to zoom in, spin, and zoom back out. 
