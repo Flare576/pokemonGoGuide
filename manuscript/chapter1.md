@@ -83,7 +83,43 @@ As you play and spin [Pokéstops](#pokestops), your bag will inevitably get full
 Stuff about gyms
 
 # <a name="catching_pokemon"/></a>Catching Pokemon
-Stuff about catching
+After tapping a Pokémon on the Overworld screen, you'll be taken to the Catching screen.
+
+![TODO: catchingImage](images/catchingScreen.jpg)
+
+If you want to take fun pictures of Pokémon interacting with real-world objects, you can toggle the VR setting in the top-right corner of the screen. Otherwise, you'll have an easier time catching Pokémon (and preserving battery life) if you turn off VR.
+
+At the bottom of the screen you'll see a Poké Ball in the middle of the screen and a Bag icon to the right. Once you're at a level where you have Razz Berries or multiple types of Poké Balls, you'll use this button to control the item you're using.
+
+The difficulty of catching a Pokémon is based on a number of factors:
+
+- Pokémon's CP value
+- Pokémon's Species
+- The type of Poké Ball you're using
+- Whether or not you've fed it a Razz Berry
+
+To see the currennt difficulty level, tap and hold on the Poké Ball; the circle pulsating around the Pokémon will change colors to indicate difficulty, where green is easy to shades of orange and red for more difficult catches.
+
+Sometimes you'll be able to lower the difficulty using a different Poké Ball or feeding the Pokémon a Razz Berry, but some Pokémon are just hard to catch!
+
+Once you're set, you have a few options for how to throw your Poké Ball, but they all have essentially the same goal: make the Poké Ball hit the Pokémon as close to the center of the color circle as possible.
+
+## Straight Up
+The simplest technique; simply tap the Poké Ball, drag up your screen, and let go. This technique has the advantage of being very fast, but also is prone to Poké Balls veering off unexpectedly.
+
+## Spin Toss
+Here, you tap and hold the Poké Ball and make small circles with your finger, essentially applying _spin_ to the ball. When you're ready to throw, slide your finger sideways and up. If you perform the manuever correctly, the ball will curve from the side of your screen back toward the Pokémon.
+
+>Note: if you're spinning clockwise, throw to the left to have the ball slice back in, otherwise throw to the right for a slice!
+
+This technique usually mitigates the "veering" problem, but also requires more time to throw as well as taking time to learn.
+
+## Post-throw
+If you hit, the Pokémon will vanish into the Poké Ball and the center will turn red. At this point all you can do is watch as the ball either wiggles and finally goes gray, indicating success, or the Pokémon bursts out. In the case that the Pokémon escapes, you have the option of feeding it another Razz Berry.
+
+If you miss, simply try again. You won't have to feed it another Razz Berry unless you hit.
+
+The Poké Ball is used up no matter what, and after each hit there is a chance that the Pokémon will run away.
 
 # <a name="shop"/></a>Shop
 Item | Qty | Cost | Coins Per Item
@@ -200,22 +236,24 @@ The situation is complicated by the fact that the things that provide you with X
 Activity | XP Value
 --- | ---
 "Spinning" [PokéStops](#pokestops) | 50, or 100 if 6+ items
-Catching a Pokémon | 100 - 200 
+Catching a Pokémon | 100 - 210*
 Acquiring a New Pokémon | 500
 Hatching an Egg | Unconfirmed[^eggXP]
 Fighting an opponent's [Gym](#gym) | up to 100
 Winning a fight against opponent's [Gym](#gym) | up to 150
 Winning at a friendly [Gym](#gym) | up to 100
 
+There are 4 "Catching" modifiers, one of which stacks with the others.
 
->Note: There are 4 "Catching" modifiers which do not stack:
->
->Modifier | Value
->--- | ---
->Nice Throw | 10
->Great Throw | 50
->Excellent Throw | 100
->Curve Ball | 10
+Modifier | Value | Stacks
+--- | --- | ---
+Curve Ball | 10 | Yes
+Nice Throw | 10 | No
+Great Throw | 50 | No
+Excellent Throw | 100 | No
+![](images/NiceCurve.png)
+![](images/GreatCurve.png) 
+![](images/ExcellentCurve.png)
 
 [^eggXP]: Some sources state a flat value of 500xp, others suggest 100xp per KM needed to hatch the egg.
 
@@ -249,4 +287,8 @@ Adding the 121 back to the 60 we need, that's 181 Pokémon. That's a lot, but be
 
 ### The Marathon
 
-More in the spirit of Pokémon Go's goal of getting you up and moving is finding a location where you can constantly spin Pokéstops. It takes less than 5 seconds to zoom in, spin, and zoom back out. 
+More in the spirit of Pokémon Go's goal of getting you up and moving is finding a location where you can constantly spin Pokéstops. It takes less than 5 seconds to zoom in, spin, and zoom back out, so, in theory, you could interact with 360 Pokéstops. Each Pokéstop could be worth 50XP or 100XP, depending on how many items you get; lets assume an average of 55 (1 in 10 giving 100XP).
+
+>55 * 360 = 19,800
+
+Let's call it an even 20,000, and this is just from the Pokéstops; you'll also be able to hatch eggs rapidly with this approach. Just watch your inventory level!
