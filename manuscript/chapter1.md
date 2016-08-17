@@ -77,7 +77,11 @@ You can spin a Pokéstop once every five (5) minutes, and the items that drop ap
 When you start the game, your bag can contain up to 350 [items](#items). You can increase this by buying Bag Upgrades (see [Shop](#shop)). 
 
 ## Removing Items
-As you play and spin [Pokéstops](#pokestops), your bag will inevitably get full. To remove items, tap the Poké Ball icon at the bottom of the screen while in the **Overworld**, then tap _Items_. Each item has a little garbage can next to it. Tapping this will bring up an interface where you choose the quantity to throw away. When you've entered the desired number, tap "Yes." You've just cleared up space!
+As you play and spin [Pokéstops](#pokestops), your bag will inevitably get full. To remove items, tap the Poké Ball icon at the bottom of the screen while in the **Overworld**, then tap _Items_. 
+
+![](images/Inventory_sm.png)
+
+Each item has a little garbage can next to it. Tapping this will bring up an interface where you choose the quantity to throw away. When you've entered the desired number, tap "Yes." You've just cleared up space!
 
 # <a name="gym"/></a>Gyms
 Stuff about gyms
@@ -251,9 +255,13 @@ Curve Ball | 10 | Yes
 Nice Throw | 10 | No
 Great Throw | 50 | No
 Excellent Throw | 100 | No
-![](images/NiceCurve.png)
-![](images/GreatCurve.png) 
-![](images/ExcellentCurve.png)
+![](images/NiceCurve_sm.png)
+![](images/GreatCurve_sm.png) 
+![](images/ExcellentCurve_sm.png)
+
+Additionally, all of the above scenarios then stack with other catching bonuses:
+
+![](images/NewNiceCurve_sm.png)
 
 [^eggXP]: Some sources state a flat value of 500xp, others suggest 100xp per KM needed to hatch the egg.
 
